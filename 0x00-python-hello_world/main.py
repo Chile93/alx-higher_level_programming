@@ -1,2 +1,2 @@
-#!/bin/bash
-print("hello world")
+#!/usr/bin/bash
+print("Best School")
